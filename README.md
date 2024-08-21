@@ -1,6 +1,6 @@
 # GC modeling with pulsar timing
 
-In this repo we make availible extra plots not included in the paper as well as full sampler outputs
+In this repo we make available extra plots not included in the paper as well as full sampler outputs
 and datafiles.
 
 The `GCfit` datafiles for each cluster are in the `data_files` directory. The `GCfit` datafiles
