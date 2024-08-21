@@ -11,5 +11,5 @@ the full `GCfit` output files. The `GCfit` output files contain the full sampler
 the posterior samples for all of the parameters in the model and can be used to reproduce various
 plots and results in the paper.
 
-See the `GCfit` [documentation](https://gcfit.readthedocs.io/en/latest/) for more information on the
+See the `GCfit` [documentation](https://gcfit.readthedocs.io/en/develop/) for more information on the
 `GCfit` output files and how to use them.
