@@ -13,3 +13,8 @@ plots and results in the paper.
 
 See the `GCfit` [documentation](https://gcfit.readthedocs.io/en/develop/) for more information on the
 `GCfit` output files and how to use them.
+
+
+## Attribution
+
+If you use these models or results in your own work, please cite the paper in which they were presented: [10.3847/1538-4357/ad77bc](https://doi.org/10.3847/1538-4357/ad77bc)
